@@ -5,3 +5,7 @@
 - [WebReflection/disconnected](https://github.com/WebReflection/disconnected#disconnected) ([🌎www](https://webreflection.github.io/disconnected/test/))
 - https://pfrazee.hashbase.io/blog/webcomponents-yo with yo
 - https://developers.google.com/web/fundamentals/web-components/shadowdom
+- [UNDER THE HOOD OF THE LEAGUE CLIENT’S HEXTECH UI](https://technology.riotgames.com/news/under-hood-league-client’s-hextech-ui) - Webcomponents used in ember for LOL
+- https://github.com/Polymer/lit-element
+- https://lit-html.polymer-project.org
+
