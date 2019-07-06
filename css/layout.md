@@ -1,4 +1,20 @@
-# CSS Columns
+# CSS laout
+
+## Flexbox
+
+- https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+# CSS Grid
+
+- https://codeburst.io/css-grid-crash-course-9b13dfaaa43a
+- https://css-tricks.com/snippets/css/complete-guide-grid/
+
+
+## Mobile
+
+- https://webkit.org/blog/7929/designing-websites-for-iphone-x/
+
+## CSS Columns
 
 - [Guide to Responsive-Friendly CSS Columns](https://css-tricks.com/guide-responsive-friendly-css-columns/)
 
@@ -61,9 +77,9 @@ article {
 
 ```css
 /* column span */
-h3 { 
-  -webkit-column-span: all; 
-          column-span: all; 
+h3 {
+  -webkit-column-span: all;
+          column-span: all;
 }
 ```
 

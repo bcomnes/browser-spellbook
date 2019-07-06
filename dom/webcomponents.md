@@ -9,3 +9,10 @@
 - https://github.com/Polymer/lit-element
 - https://lit-html.polymer-project.org
 
+## Constructable stylesheets
+
+A system to de-dupe the loading of component styles (aimed at webcomponents).
+
+- https://wicg.github.io/construct-stylesheets/
+- https://developers.google.com/web/updates/2019/02/constructable-stylesheets
+- https://lit-element.polymer-project.org/guide/templates
