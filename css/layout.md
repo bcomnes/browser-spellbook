@@ -96,3 +96,8 @@ article {
   height: 350px;
 }
 ```
+
+
+## Line clamp
+
+https://css-tricks.com/almanac/properties/l/line-clamp/
